@@ -1,0 +1,60 @@
+.shopTitle, .shopSubtitle, .shopList{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.shopTitle{
+    margin: 20px;
+    font-size: 28px;
+}
+
+.shopSubtitle{
+    font-size: 20px;
+    margin-top: 45px;
+}
+
+.shopConteiner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.shopButtonsConteiner{
+    margin: 40px 5px 20px 5px;
+}
+
+.shopListDetail, .shopList{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+}
+
+.shopList{
+    list-style: none;
+    margin: 8px;
+    padding: 8px;
+}
+
+.shopTxt{
+    margin: 10px;
+}
+
+.shopTxtTitle{
+    margin: 5px;
+    padding: 12px;
+    background-color: rgb(179, 255, 250);
+}
+
+.shopStructure, .shopStructureItem{
+    display: flex;
+    justify-content: center;
+}
+
+.shopStructure{
+    flex-direction: column;
+}

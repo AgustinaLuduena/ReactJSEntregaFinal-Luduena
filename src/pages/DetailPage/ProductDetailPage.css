@@ -1,0 +1,14 @@
+.detailConteiner{
+    display: flex;
+    justify-content: center;
+}
+
+.erorr{
+    color: rgb(145, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}

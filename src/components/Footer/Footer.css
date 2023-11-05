@@ -1,0 +1,17 @@
+.footer{
+    background-color: black;
+    font-size: 18px;
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+
+}
+
+.instagram{
+    color: aliceblue;
+    text-align: center;
+    text-decoration: none;
+}

@@ -1,0 +1,14 @@
+.igCard{
+    display: flex;
+    justify-content: center;
+}
+
+.igImg{
+    width: 320px;
+    margin: 13px;
+}
+
+.igImg:hover{
+    transition: 2s;
+    transform: scale(1.1);
+}
